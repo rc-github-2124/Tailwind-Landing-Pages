@@ -284,7 +284,7 @@ const Footer = () => {
                               fontSize: "16px",
                               lineHeight: "140%",
                               color: "#E2E8F0",
-                        }}>Request Demos</p>
+                        }}>Request Demo</p>
             
                     </div>
                   
